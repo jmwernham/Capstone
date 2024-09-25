@@ -1,6 +1,6 @@
 # Can Wholesale Electricity Prices Be Predicted Using A SARIMA Model?
 
-See the blog post at:
+See the blog post at: https://medium.com/@jake.wernham/can-wholesale-electricity-prices-be-predicted-using-a-sarima-model-5e067c5be4d0
 
 ## Motivation
 
